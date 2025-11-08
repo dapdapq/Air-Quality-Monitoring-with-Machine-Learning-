@@ -7,6 +7,7 @@ This project focuses on analyzing air quality in Jakarta, one of the cities in I
 We utilized Python and machine learning techniques to enhance the accuracy of predicting and monitoring air quality. The project also utilizes SMOTE (Synthetic Minority Oversampling Technique) to address imbalanced datasets and enhance model performance.
 
 
+
 ## 🧠 Objectives
 
 * Analyze air quality data from Jakarta.
@@ -14,6 +15,7 @@ We utilized Python and machine learning techniques to enhance the accuracy of pr
 * Implement machine learning models to predict air quality levels.
 * Use SMOTE to balance imbalanced data and enhance accuracy.
 * Evaluate model performance using metrics such as accuracy, precision, recall, and F1-score.
+
 
 
 ## ⚙️ Tools and Libraries Used
@@ -26,20 +28,11 @@ We utilized Python and machine learning techniques to enhance the accuracy of pr
 * Jupyter Notebook
 
 
+
 ## 📂 Files in This Repository
 
-Air-Quality-Monitoring-with-Machine-Learning/
-│
-├── Projek Machine Learning Fix.ipynb        # Main Jupyter Notebook
-│
-├── Dataset/
-│   ├── final_quality_air.csv                # Cleaned dataset
-│   └── ispu_dki1.csv                        # Original dataset
-│
-├── requirements.txt                         # Dependencies used in this project
-│
-└── README.md                                # Project documentation
-|
+This repository contains all the necessary files for the project titled “Projek Machine Learning Fix”, which focuses on air quality analysis in Jakarta. The main notebook file, Projek Machine Learning Fix.ipynb, includes the data preprocessing, analysis, model training, and evaluation processes. The Dataset folder contains two CSV files, final_quality_air.csv and ispu_dki1.csv, which serve as the primary data sources used for the analysis and machine learning model development. Additionally, the requirements.txt file lists all the Python libraries and dependencies required to run the project smoothly in any environment.
+
 
 
 ## 👥 Team Members
@@ -53,6 +46,7 @@ Air-Quality-Monitoring-with-Machine-Learning/
 | Wincent Jutan            | 00000091547 |
 
 
+
 ## 📊 Results Summary
 
 After applying SMOTE and optimizing model parameters:
@@ -61,9 +55,11 @@ After applying SMOTE and optimizing model parameters:
 * Visualizations provided insight into pollution trends in Jakarta.
 
 
+
 ## 🌱 Impact
 
 This project demonstrates how machine learning can support environmental monitoring and public health awareness by providing insights into air pollution patterns.
+
 
 
 ## 🔗 Repository Information
